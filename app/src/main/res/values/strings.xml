@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">F55122015</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="tv_result">Hasil</string>
+    <string name="btn_calculate">Hitung</string>
+</resources>
